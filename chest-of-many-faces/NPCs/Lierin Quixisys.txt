@@ -1,0 +1,20 @@
+Name: Lierin Quixisys
+Race: ['Male'] ['Elf']
+Alignment: True Neutral
+
+-------ATTRIBUTE SCORE ARRAY-------
+Strength: 7
+Dexterity: 10
+Constitution: 13
+Intelligence: 7
+Wisdom: 14
+Charisma: 6
+
+
+-------TRAITS AND FLAWS-------
+Personality trait: Hothead
+Ideal: Ideals aren't worth killing for or going to war for. (Neutral)
+Bond: My loyalty to my sovereign is unwavering.
+Flaw: Anxious - Full of mental distress or uneasiness because of fear of danger or misfortune; greatly worried; solicitous.
+Quirk: Never is without food
+Physical Characteristic: NPC is covered in tattoos of the cities they have been to. Each one best representing that city.
